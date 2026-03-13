@@ -60,6 +60,6 @@ I'm always looking for new challenges where I can mix performance, data, and gre
 
 ## 📫 Let's Connect!  
 
-💼 **LinkedIn:** [linkedin.com/in/daniel-linfon-ye-liu-a61864293]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/daniel-linfon-ye-liu-a61864293/))  
+💼 **LinkedIn:** [linkedin.com/in/daniel-linfon-ye-liu-a61864293](https://www.linkedin.com/in/daniel-linfon-ye-liu-a61864293/))  
 🌐 **Portfolio:** [daniellinfon.vercel.app](https://daniellinfon.vercel.app/)  
 📧 **Email:** [daniellinfon2003@gmail.com](mailto:daniellinfon2003@gmail.com)
