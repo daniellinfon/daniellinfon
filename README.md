@@ -57,20 +57,9 @@ I'm always looking for new challenges where I can mix performance, data, and gre
 
 ---
 
-## 🏆 Featured Projects
-
-### 🌅 [SkyPalette - Sunset Memories](https://github.com/daniellinfon/skypalette)
-A Full Stack web application that uses Artificial Intelligence to analyze, score, and map sunset photographs. 
-* **Tech:** *React, FastAPI, PyTorch (ResNet18), PostGIS, Docker.*
-
-### 🚗 Rocket League Training Game
-Developed a 3D game engine from scratch simulating the mechanics of "Rocket League", programming vehicle physics, collision detection, and advanced graphics rendering.
-* **Tech:** *C++, OpenGL, GLSL.*
-
----
 
 ## 📫 Let's Connect!  
 
-💼 **LinkedIn:** [linkedin.com/in/tu-usuario]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/daniel-linfon-ye-liu-a61864293/))  
-🌐 **Portfolio:** [tu-portfolio.com](https://daniellinfon.vercel.app/)  
-📧 **Email:** [tu-email@gmail.com](mailto:daniellinfon2003@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/daniel-linfon-ye-liu-a61864293]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/daniel-linfon-ye-liu-a61864293/))  
+🌐 **Portfolio:** [daniellinfon.vercel.app](https://daniellinfon.vercel.app/)  
+📧 **Email:** [daniellinfon2003@gmail.com](mailto:daniellinfon2003@gmail.com)
