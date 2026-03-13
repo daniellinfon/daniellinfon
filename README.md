@@ -71,6 +71,6 @@ Developed a 3D game engine from scratch simulating the mechanics of "Rocket Leag
 
 ## 📫 Let's Connect!  
 
-💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/tu-usuario)  
-🌐 **Portfolio:** [tu-portfolio.com](https://tu-portfolio.com)  
-📧 **Email:** [tu-email@gmail.com](mailto:tu-email@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/tu-usuario]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/daniel-linfon-ye-liu-a61864293/))  
+🌐 **Portfolio:** [tu-portfolio.com](https://daniellinfon.vercel.app/)  
+📧 **Email:** [tu-email@gmail.com](mailto:daniellinfon2003@gmail.com)
