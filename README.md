@@ -29,11 +29,13 @@ I consider myself a hardworking, proactive, and resourceful person with a strong
 
 ### **IDEs:** 
 <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
----
 
+---
 
 ## 📫 Let's Connect!  
 
-💼 **LinkedIn:** [linkedin.com/in/daniel-linfon-ye-liu-a61864293](https://www.linkedin.com/in/daniel-linfon-ye-liu-a61864293/) 
+💼 **LinkedIn:** [linkedin.com/in/daniel-linfon-ye-liu-a61864293](https://www.linkedin.com/in/daniel-linfon-ye-liu-a61864293/)
+
 🌐 **Portfolio:** [daniellinfon.vercel.app](https://daniellinfon.vercel.app/)  
+
 📧 **Email:** [daniellinfon2003@gmail.com](mailto:daniellinfon2003@gmail.com)
